@@ -18,9 +18,9 @@ This project is a Medico Assistance Chatbot built using OpenAI's GPT-3 and Pytho
 # Setup
 1. Clone the repository.
 2. Install the required dependencies.
-3. Set up your OpenAI API key in the code. Replace YOUR_API_KEY with your actual API key.
+3. Set up your OpenAI API key in the code. Replace ```YOUR_API_KEY``` with your actual API key.
 4. Run the chatbot using the following command:
-   '''python medico_chatbot.py'''
+   ```python main.py```
 
 # Disclaimer
 The Medico Assistance Chatbot is designed to provide general medical information and support. It is not intended to be a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of your physician or other qualified healthcare providers with any questions you may have regarding a medical condition.
